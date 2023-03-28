@@ -1,5 +1,5 @@
-media app
+#media app
 
-React application to train fetching data and managing state with multiple slices with Redux Toolkit and using redux thunk and redux toolkit query and cache tags
+Javascript/React application to exercise network requests and fetching data from outside API (Faker).  State is managed by Redux Toolkit with multiple slices.
 
 Keywords: Redux, Redux Toolkit, Redux Toolkit Query, Redux Thunk, Tags
